@@ -1,3 +1,5 @@
-Delphi v1.10.44029
+Delphi v1.10.45343
 
-- Add YAPI.AddUdevRule() method
+- Add edgePerCycle attribute to the QuadratureDecoder
+- Add Example for Yocto-MaxiKnob
+- Fix missing documentation for isReadOnly() method.
